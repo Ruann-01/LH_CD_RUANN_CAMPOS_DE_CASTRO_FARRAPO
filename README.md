@@ -8,7 +8,7 @@ A forma mais simples de rodar o projeto é utilizando o serviço Google Colab.
 
 É necessário ter uma conta google e entrar no site: https://colab.research.google.com/
 
-Depois desse passo, deve-se ir na aba Upload, e escolher o arquivo que você deseja executar (DesafioCD.ipynb, Entrega_1_Data_Explorer.ipynb ou Entrega_2_Predicted_Car_Tests.ipynb)
+Depois desse passo, deve-se ir na aba Upload, e escolher o arquivo que você deseja executar ( Entrega_1_Data_Explorer.ipynb, Entrega_2_EDA.ipynb, Entrega_3_Predicted_Car_Tests.ipynb)
 
 Ao abrir o arquivo no ambiente do Colab, vá na aba Arquivos na lateral esquerda e faça o upload das bases de dados wage_test.csv e wage_train.csv. 
 
@@ -25,8 +25,9 @@ As bibliotecas utilizadas foram:
 
 ## Arquivos
 - Desafio.ipynb: Arquivo notebook com todo o desafio implementado
-- Entrega_1_Exploração_dos_Dados.ipynb: Arquivo notebook da primeira entrega, sobre a exploração dos dados da base
-- Entrega_2_Previsão_da_categoria_de_Salário.ipynb: Arquivo notebook da segunda entrega, sobre a previsão das categorias dos salários
+- Entrega_1_Data_Explorer.ipynb: Arquivo notebook da primeira entrega, sobre a exploração dos dados da base
+- Entrega_2_EDA.ipynb: Arquivo notebook da segunda entrega, sobre a construção da EDA e as respostas das regras de negócio
+- Entrega_3_Predicted_Car_Tests.ipynb: Arquivo notebook da terceira entrega, sobre a previsão dos preços dos carros
 - predicted.csv: Arquivo csv com os rótulos previstos da base de teste
 - requirements.txt: Bibliotecas necessárias para rodar o projeto
 - cars_test.csv: Base de dados de teste
