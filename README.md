@@ -24,10 +24,10 @@ As bibliotecas utilizadas foram:
 - numpy: Para manipulação dos dados
 
 ## Arquivos
-- Desafio.ipynb: Arquivo notebook com todo o desafio implementado
-- **Notebook_EDA.ipynb:** Arquivo notebook com a primeira parte da entrega, que corresponde à construção da análise exploratória dos dados(EDA) e as respostas dos questionamentos
+- **Notebook_EDA.ipynb:** Arquivo notebook com a primeira parte da entrega, que corresponde à construção da análise exploratória dos dados(EDA) e as respostas dos questionamentos.
 - **df.pkl:** DataFrame salvo com todos os tratamentos realizados no Notebook de Análise Exploratória de Dados (Notebook_EDA) para utilização no notebook de construção dos modelos.
-- **Notebook_Models.ipynb:** Arquivo notebook a segunda e última parte da entrega, que corresponde à construção das modelagens e previsões requeridas
-- **modelagem.pkl:** Modelo construído salvo em formato .pkl, como requerido
-- **requirements.txt:** Bibliotecas necessárias para rodar o projeto
-- **desafio_indicium_imdb.csv:** Base de dados utilizada no projeto
+- **Notebook_Models.ipynb:** Arquivo notebook a segunda e última parte da entrega, que corresponde à construção das modelagens e previsões requeridas.
+- **modelagem.pkl:** Modelo construído salvo em formato .pkl, como requerido.
+- **requirements.txt:** Bibliotecas necessárias para rodar o projeto.
+- **desafio_indicium_imdb.csv:** Base de dados utilizada no projeto.
+- **Gráfico_Overview.png:** Imagem de apresentação do gráfico interativo da coluna 'Overview'.
