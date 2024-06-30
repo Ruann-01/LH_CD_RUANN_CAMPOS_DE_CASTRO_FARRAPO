@@ -14,14 +14,16 @@ Ao abrir o arquivo no ambiente do Colab, vá na aba Arquivos na lateral esquerda
 
 As bibliotecas utilizadas já estão instaladas por padrão no ambiente do Colab.
 
-Outra forma de rodar o projeto é utilizar o programa Jupyter, que vai ler os notebooks do projeto. Para executar nesse ambiente, você deve instalar as bibliotecas no ambiente que será executado os notebooks. Para instalar use: pip install -r requirements.txt
+Outra forma de rodar o projeto é utilizar o programa Jupyter, que vai ler os notebooks do projeto. Para executar nesse ambiente, você deve instalar as bibliotecas no ambiente que será executado os notebooks. Para instalar use: pip install -r requirements.txt.
 
 ## Requirements   
 As bibliotecas utilizadas foram: 
-- pandas: Para manipulação das bases de dados
-- matplotlib e seaborn: Para plotar os gráficos e histogramas
+- pandas: para manipulação das bases de dados
+- matplotlib e seaborn: para plotar os gráficos e histogramas
 - scikit-learn: para utilizar os modelos de aprendizagem de máquina, além dos pré-processamentos e métricas de performance
-- numpy: Para manipulação dos dados
+- numpy: ara manipulação dos dados
+- ipywidgets: para criar controles interativos, como botões, caixas de seleção, auxiliando a manipulação de dados dinamicamente
+- wordcloud: para criar visualizações de nuvem de palavras a partir de um conjunto de textos 
 
 ## Arquivos
 - **Notebook_EDA.ipynb:** Arquivo notebook com a primeira parte da entrega, que corresponde à construção da análise exploratória dos dados(EDA) e as respostas dos questionamentos.
