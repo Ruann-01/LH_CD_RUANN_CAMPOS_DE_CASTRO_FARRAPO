@@ -21,9 +21,10 @@ As bibliotecas utilizadas foram:
 - pandas: para manipulação das bases de dados
 - matplotlib e seaborn: para plotar os gráficos e histogramas
 - scikit-learn: para utilizar os modelos de aprendizagem de máquina, além dos pré-processamentos e métricas de performance
-- numpy: ara manipulação dos dados
+- numpy: para manipulação dos dados
 - ipywidgets: para criar controles interativos, como botões, caixas de seleção, auxiliando a manipulação de dados dinamicamente
 - wordcloud: para criar visualizações de nuvem de palavras a partir de um conjunto de textos 
+- ipython: para exibir imagens dentro do notebook
 
 ## Arquivos
 - **Notebook_EDA.ipynb:** Arquivo notebook com a primeira parte da entrega, que corresponde à construção da análise exploratória dos dados(EDA) e as respostas dos questionamentos.
