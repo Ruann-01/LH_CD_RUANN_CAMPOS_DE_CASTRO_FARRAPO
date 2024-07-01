@@ -1,4 +1,4 @@
-# LH_CD_Ruann_Campos_de_Castro_Farrapo
+# LH_CD_RUANN_CAMPOS_DE_CASTRO_FARRAPO
 ## Desafio Indicium - Ciência de Dados
 
 Nesse repositório foi realizada uma análise exploratória de uma base de dados, além de treinar e testar modelos para a regressão 
