@@ -1,7 +1,7 @@
 # LH_CD_RUANN_CAMPOS_DE_CASTRO_FARRAPO
 ## Desafio Indicium - Ciência de Dados
 
-Nesse repositório foi realizada uma análise exploratória de uma base de dados, além de treinar e testar modelos para a regressão 
+Nesse repositório foi realizada uma análise exploratória de uma base de dados, além do desenvolvimento de um modelo de predição que prever a nota de avaliação IMDb dos filmes, como foi requerido. 
 
 ## Como rodar o projeto? 
 A forma mais simples de rodar o projeto é utilizando o serviço Google Colab. 
@@ -10,7 +10,7 @@ A forma mais simples de rodar o projeto é utilizando o serviço Google Colab.
 
 Depois desse passo, deve-se ir na aba Upload, e escolher o arquivo que você deseja executar ( Notebook_EDA.ipynb, Notebook_Modelagem.ipynb)
 
-Ao abrir o arquivo no ambiente do Colab, vá na aba Arquivos na lateral esquerda e faça o upload das bases de dados wage_test.csv e wage_train.csv. 
+Ao abrir o arquivo no ambiente do Colab, vá na aba Arquivos na lateral esquerda e faça o upload das bases de dados desafio_indicium_imdb.csv
 
 As bibliotecas utilizadas já estão instaladas por padrão no ambiente do Colab.
 
