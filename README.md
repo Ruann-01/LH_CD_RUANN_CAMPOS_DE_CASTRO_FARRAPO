@@ -8,7 +8,7 @@ A forma mais simples de rodar o projeto é utilizando o serviço Google Colab.
 
 É necessário ter uma conta google e entrar no site: https://colab.research.google.com/
 
-Depois desse passo, deve-se ir na aba Upload, e escolher o arquivo que você deseja executar ( Notebook_EDA.ipynb, Notebook_Models.ipynb)
+Depois desse passo, deve-se ir na aba Upload, e escolher o arquivo que você deseja executar ( Notebook_EDA.ipynb, Notebook_Modelagem.ipynb)
 
 Ao abrir o arquivo no ambiente do Colab, vá na aba Arquivos na lateral esquerda e faça o upload das bases de dados wage_test.csv e wage_train.csv. 
 
@@ -28,7 +28,7 @@ As bibliotecas utilizadas foram:
 ## Arquivos
 - **Notebook_EDA.ipynb:** Arquivo notebook com a primeira parte da entrega, que corresponde à construção da análise exploratória dos dados(EDA) e as respostas dos questionamentos.
 - **df.pkl:** DataFrame salvo com todos os tratamentos realizados no Notebook de Análise Exploratória de Dados (Notebook_EDA) para utilização no notebook de construção dos modelos.
-- **Notebook_Models.ipynb:** Arquivo notebook a segunda e última parte da entrega, que corresponde à construção das modelagens e previsões requeridas.
+- **Notebook_Modelagem.ipynb:** Arquivo notebook a segunda e última parte da entrega, que corresponde à construção das modelagens e previsões requeridas.
 - **modelagem.pkl:** Modelo construído salvo em formato .pkl, como requerido.
 - **requirements.txt:** Bibliotecas necessárias para rodar o projeto.
 - **desafio_indicium_imdb.csv:** Base de dados utilizada no projeto.
