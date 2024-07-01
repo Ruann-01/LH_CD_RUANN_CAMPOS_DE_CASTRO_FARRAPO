@@ -25,6 +25,7 @@ As bibliotecas utilizadas foram:
 - ipywidgets: para criar controles interativos, como botões, caixas de seleção, auxiliando a manipulação de dados dinamicamente
 - wordcloud: para criar visualizações de nuvem de palavras a partir de um conjunto de textos 
 - ipython: para exibir imagens dentro do notebook
+- joblib: para salvar o modelo desenvolvido no formato .pkl
 
 ## Arquivos
 - **Notebook_EDA.ipynb:** Arquivo notebook com a primeira parte da entrega, que corresponde à construção da análise exploratória dos dados(EDA) e as respostas dos questionamentos.
