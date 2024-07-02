@@ -1,7 +1,7 @@
 # LH_CD_RUANN_CAMPOS_DE_CASTRO_FARRAPO
 ## Desafio Indicium - Ciência de Dados
 
-Nesse repositório foi realizada uma análise exploratória de uma base de dados, além do desenvolvimento de um modelo de predição que prever a nota de avaliação IMDb dos filmes, como foi requerido. 
+Nesse repositório foi realizada uma análise exploratória da base de dados dos filmes, além do desenvolvimento de um modelo de predição que prever a nota de avaliação IMDb dos filmes, como foi requerido. 
 
 ## Como rodar o projeto? 
 A forma mais simples de rodar o projeto é utilizando o serviço Google Colab. 
@@ -31,7 +31,6 @@ As bibliotecas utilizadas foram:
 - **Notebook_EDA.ipynb:** Arquivo notebook com a primeira parte da entrega, que corresponde à construção da análise exploratória dos dados(EDA) e as respostas dos questionamentos.
 - **Notebook_Modelagem.ipynb:** Arquivo notebook a segunda e última parte da entrega, que corresponde à construção das modelagens e previsões requeridas.
 - **avaliacao_imdb_model.pkl:** Modelo desenvolvido salvo em formato .pkl, como requerido.
-- **df.pkl:** Dataset salvo com todos os tratamentos realizados no Notebook de Análise Exploratória de Dados (Notebook_EDA) para utilização no notebook de desenvolvimento dos modelos.
 - **requirements.txt:** Bibliotecas necessárias para rodar o projeto.
 - **Gráfico_Overview.png:** Imagem de apresentação do gráfico interativo da coluna 'Overview'.
 - **desafio_indicium_imdb.csv:** Base de dados utilizada no projeto.
