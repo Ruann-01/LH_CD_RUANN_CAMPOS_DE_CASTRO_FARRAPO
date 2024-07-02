@@ -10,7 +10,7 @@ A forma mais simples de rodar o projeto é utilizando o serviço Google Colab.
 
 Depois desse passo, deve-se ir na aba Upload, e escolher o arquivo que você deseja executar ( Notebook_EDA.ipynb, Notebook_Modelagem.ipynb)
 
-Ao abrir o arquivo no ambiente do Colab, vá na aba Arquivos na lateral esquerda e faça o upload das bases de dados desafio_indicium_imdb.csv
+Ao abrir o arquivo no ambiente do Colab, vá na aba Arquivos na lateral esquerda e faça o upload da base de dados desafio_indicium_imdb.csv
 
 As bibliotecas utilizadas já estão instaladas por padrão no ambiente do Colab.
 
